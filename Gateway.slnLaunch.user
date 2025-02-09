@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Gateway\\Gateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Slots\\Slot.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Balance\\Balance.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

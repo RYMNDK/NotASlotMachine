@@ -1,0 +1,6 @@
+@Balance_HostAddress = http://localhost:5054
+
+GET {{Balance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
